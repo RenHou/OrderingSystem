@@ -1,0 +1,35 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "library"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "library/commons-compress-1.21.jar",
+        "library/commons-io-2.15.1.jar",
+        "library/jcalendar-1.4.jar",
+        "library/log4j-api-2.22.1.jar",
+        "library/log4j-core-2.22.1.jar",
+        "library/poi-5.2.3.jar",
+        "library/poi-ooxml-5.2.3.jar",
+        "library/xmlbeans-5.3.0.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\AbsoluteLayout.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\cglib-2.2.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\checker-qual-3.9.1.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\discoclient-2.0.24.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\jdktools-11.0.11.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\nb-custom-jshell-probe.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\nb-javac-jdk-22u1-8.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\nb-javac-jdk-22u1-8-api.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\nb-mod-jshell-probe.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\org.eclipse.lsp4j.debug-0.13.0.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\org.eclipse.lsp4j.generator-0.13.0.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\org.eclipse.lsp4j.jsonrpc.debug-0.13.0.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\org.eclipse.lsp4j.jsonrpc-0.13.0.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\org.eclipse.lsp4j-0.13.0.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\org.eclipse.xtend.lib.macro-2.24.0.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\org.eclipse.xtend.lib-2.24.0.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\org.eclipse.xtext.xbase.lib-2.24.0.jar",
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\org-netbeans-modules-java-j2seembedded-probe.jar"
+    ]
+}
