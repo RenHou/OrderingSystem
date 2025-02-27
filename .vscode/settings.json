@@ -30,6 +30,8 @@
         "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\org.eclipse.xtend.lib.macro-2.24.0.jar",
         "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\org.eclipse.xtend.lib-2.24.0.jar",
         "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\org.eclipse.xtext.xbase.lib-2.24.0.jar",
-        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\org-netbeans-modules-java-j2seembedded-probe.jar"
+        "c:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\org-netbeans-modules-java-j2seembedded-probe.jar",
+        "d:\\develop\\mssql-jdbc-12.8.1.jre11.jar",
+        "d:\\develop\\mysql-connector-j-9.0.0.jar"
     ]
 }
